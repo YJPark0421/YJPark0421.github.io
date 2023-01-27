@@ -1,7 +1,5 @@
 # texture
-- [Reference GitHub](https://github.com/byeongjokim/byeongjokim.github.io)
-- [Reference Blog](https://byeongjokim.github.io/)
----
+
 A configurable jekyll theme for simply beautiful blogs.
 
 **Demo**: [samarsault.com/texture](https://samarsault.com/texture)
@@ -150,3 +148,7 @@ The theme is available as open source under the terms of the [MIT License](https
 
 ## More Themes
 [plainwhite](https://github.com/samarsault/plainwhite-jekyll)
+
+---
+- [Reference GitHub](https://github.com/byeongjokim/byeongjokim.github.io)
+- [Reference Blog](https://byeongjokim.github.io/)
