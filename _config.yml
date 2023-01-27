@@ -20,9 +20,9 @@ texture:
   date_format: "%Y-%m-%d"
   style: black
   showNav: false
-  showPicker: true
-#   useMathJax: true
-#   enable_mathjax: true
+  showPicker: false
+  useMathJax: true
+  enable_mathjax: true
 #   analytics_id: 'UA-159828029-1'
 
   # generate social links in footer
@@ -38,7 +38,7 @@ texture:
 # - about.md
 
 # Build settings
-remote_theme: samarsault/texture
+remote_theme: thelehhman/texture
 # theme: texture
 
 plugins:
