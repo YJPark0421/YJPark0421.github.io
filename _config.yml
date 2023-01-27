@@ -1,6 +1,6 @@
-title: Texture Theme
-author: GitHub User
-email: your-email@domain.com
+title: YJPARK's R&D Basecamp
+author: Yunjeong Park
+email: yjpark200421@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -15,28 +15,30 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: Adam Denisov
-  tagline: Developer. Designer
-  date_format: "%b %-d, %Y"
+  title: YJPARK's R&D Basecamp
+  tagline: Data Scientist. Data Analyst
+  date_format: "%Y-%m-%d"
   style: black
   showNav: false
   showPicker: true
+#   useMathJax: true
+#   enable_mathjax: true
+#   analytics_id: 'UA-159828029-1'
 
   # generate social links in footer
   social_links:
-    twitter: thelehhman
-    github:  thelehhman
-    linkedIn: in/thelehhman
-    rss: rss
- 
+#     twitter: 
+    github:  YJPark0421
+#     linkedIn: in/
+#     rss: rss
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-#header_pages:
+# header_pages:
 # - about.md
 
 # Build settings
-# theme: texture
+theme: texture
 
 plugins:
   - jekyll-seo-tag
