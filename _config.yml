@@ -15,7 +15,7 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: YJPark`s Research & Development Sandbox
+  title: YJPark's R&D Sandbox
   tagline: Data Scientist & Data Analyst
   date_format: "%Y-%m-%d"
   style: black
@@ -28,7 +28,8 @@ texture:
   # generate social links in footer
   social_links:
 #     twitter: 
-    github:  YJPark0421
+    github: YJPark0421
+    pinterest:
 #     linkedIn: in/
 #     rss: rss
 
