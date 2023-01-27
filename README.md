@@ -1,5 +1,6 @@
 # texture
-
+- [Reference GitHub](https://github.com/byeongjokim/byeongjokim.github.io)
+---
 A configurable jekyll theme for simply beautiful blogs.
 
 **Demo**: [samarsault.com/texture](https://samarsault.com/texture)
