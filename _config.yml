@@ -15,8 +15,8 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: YJPark's BASECAMP
-  tagline: Research & Development Sandbox | Data Scientist & Data Analyst
+  title: YJPark`s Research & Development Sandbox
+  tagline: Data Scientist & Data Analyst
   date_format: "%Y-%m-%d"
   style: black
   showNav: false
